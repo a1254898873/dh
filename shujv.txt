@@ -1,0 +1,25 @@
+﻿http://bbs.chongbuluo.com/wechat.html|微信指数
+http://index.baidu.com/|百度指数
+http://data.weibo.com/index|微指数
+http://index.1688.com/|阿里指数
+http://index.youku.com/|视频指数
+http://zhishu.sogou.com/|搜狗指数
+http://datamodel.bitauto.com/|汽车指数
+http://data.stats.gov.cn/" target="_blank|国家数据
+http://www.cnsda.org/index.php?r=projects/index|国家调查数据
+http://www.talkingdata.com/index/#/mobileIndex/zh_cn|移动观象台
+http://www.cbooo.cn/|票房数据
+http://or.nsfc.gov.cn/|自然科学
+http://map.norsecorp.com/|网络攻击
+http://heat.qq.com/qianxi.php|腾讯位置大数据
+http://report.amap.com/|城市交通
+http://app2.sfda.gov.cn/datasearchp/gzcxSearch.do|食品药品
+http://db.yaozh.com/|药智数据
+http://index.iqiyi.com/|爱奇艺指数
+http://tongji.baidu.com/data/district|百度统计
+http://www.umindex.com/|友盟指数
+http://www.nsii.com.cn/|标本
+http://www.cfh.ac.cn/Spdb/spsearch.aspx?aname=&AspxAutoDetectCookieSupport=1|物种
+http://www.qgtong.com/so/Search.asp|海关百搜
+http://www.iso315.com/|防伪数据
+http://openlaw.cn/|OpenLaw

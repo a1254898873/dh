@@ -1,0 +1,66 @@
+﻿https://www.baidu.com/|百度
+https://cn.bing.com/|必应
+http://search.chongbuluo.com/baidu_advanced.html|百度高级
+http://search.chongbuluo.com/sogou_advanced.html|搜狗高级
+http://bbs.chongbuluo.com/music.html|音乐
+http://music.ifkdy.com/|疯狂音乐搜
+http://bbs.chongbuluo.com/shopping.html|购物
+http://www.duba.com/wxapp/index.html|小程序
+http://bbs.chongbuluo.com/weibo.html|微博搜索
+http://weixin.sogou.com/?p=73141200&amp;kw=|搜狗微信
+http://zhihu.sogou.com/|搜狗知乎
+http://ditu.amap.com/|高德地图
+http://map.baidu.com/|百度地图
+http://www.google.cn/maps/" target="_blank|谷歌地图
+http://map.qq.com/|腾讯地图
+http://map.sogou.com|搜狗地图
+http://cn.bing.com/ditu/|必应地图
+http://www.mafengwo.cn/|蚂蜂窝
+http://www.qyer.com/|穷游
+https://www.tripadvisor.cn/|猫途鹰
+https://www.booking.com/destinationfinder.zh-cn.html|缤客
+http://www.lotour.com/|乐途
+https://zh.airbnb.com/" target="_blank|爱彼迎
+http://s.tuniu.com/|途牛
+http://mx.wdl.org/zh/|世图
+http://www.easyicon.net/|图标
+http://www.soogif.com/extend/index|GIF动图
+http://pic.sogou.com/pic/emo/index.jsp|搜狗表情
+https://www.jiumodiary.com/|电子书
+https://libgen.pw/index.php|英文电子书
+http://bbs.chongbuluo.com/github.html|GitHub
+http://www.wolframalpha.com/|Wolfram Alpha
+http://www.ziyuanmao.com/|资源猫
+http://www.kuaidi100.com/|快递
+http://www.zhaogepu.com/|找歌谱
+https://nyaso.com/|动漫资源
+http://www.kisssub.org/|动漫 BT
+http://www.acgsou.com/|ACG搜
+http://stu.baidu.com/|百度识图
+http://bbs.chongbuluo.com/price.html|查身价
+http://shapecatcher.com/|特殊符号识别
+http://www.qiuziti.com/|求字体
+http://visualhunt.com/|Visual Hunt
+http://www.sogou.com/tupu/person.html?q=%E8%B5%B5%E4%B8%BD%E9%A2%96|人物关系
+http://weijp.library.sh.cn/mobileinto.html|姓氏家谱
+http://www.zdic.net/|汉典
+http://www.vividict.com/Default.aspx|象形文字
+http://www.guoxuedashi.com/zidian/bujian/|国学
+http://122.200.75.13|古文献
+http://www.mbalib.com/|MBA智库
+http://assrt.net/|字幕
+http://search.bilibili.com/|哔哩哔哩
+http://www.soku.com/|视频
+http://b1bj.com/|比一比价
+http://www.xitie.com/|商品历史价格
+http://www.boxz.com/|数码电器比价
+http://search.chongbuluo.com/drugs.html" target="_blank|用药助手
+https://www.openhub.net/|开源代码
+http://www.open-open.com/doc/|开源文献
+http://www.innojoy.com/search/index.shtml|专利检索
+http://www.cheyisou.com/|易车
+https://www.tianyancha.com/|查企业
+http://www.qgtong.com/so/Search.asp|海关
+http://www.findsounds.com/ISAPI/search.dll?keywords=computer+keyboard+typing|声音素材
+http://www.csres.com/|国家标准
+http://www.alldatasheetcn.com/|电子元件数据

@@ -1,0 +1,221 @@
+﻿标题字段,国内公开课,gngkk
+http://open.163.com/|网易公开课
+http://open.sina.com.cn/|新浪公开课
+http://www.duobei.com/|多贝公开课
+http://www.icourses.edu.cn/|爱课程
+http://www.oer.edu.cn/|中国教育在线
+http://www.jingpinke.com/|国家精品课程资源网
+http://xuetangx.com/|学堂在线
+http://opencla.cntv.cn/|中国公开课
+http://v.ifeng.com/gongkaike/|凤凰视频
+http://52opencourse.com/|我爱公开课
+http://v.qq.com/zt2011/open/|腾讯公开课
+http://www.tocwc.org.tw/|台湾开放式课程联盟
+http://www.cctalk.com/gongkaike/his/|沪江英语
+http://www.jialidun.com/|家里蹲大学
+http://wenku.baidu.com/course/index|文库主题课
+http://www.topu.com/|过来人公开课
+http://107cine.com/openclass/|影视工业网
+http://ulive.univs.cn/event/event/template/index/213.shtml|中国大学视频公开课
+http://mooc.chaoxing.com/|超星公开课
+http://class.zdnet.com.cn/|ZDNet公开课
+http://www.tingvoa.com/mingxiaogongkaike/|名校公开课
+http://tv.hexun.com/2011/course/|和讯公开课
+http://tv.sohu.com/open/|搜狐名校公开课
+http://www.iqiyi.com/jilupian/gkk.html|听名家说公开课
+http://openresource.cuc.edu.cn/zyml.asp?bid=1&tid=3|中国传媒大学
+http://jpkc.nankai.edu.cn/Jpkc/kczs.aspx|南开大学
+http://jpkc.scezju.com/|浙江大学
+http://www.cpr.cuhk.edu.hk/cutv/category/24|香港公开大学
+http://ocw.aca.ntu.edu.tw/ntu-ocw/|台湾大学
+http://www.chuanke.com/|传课网
+http://ke.qq.com/|腾讯课堂
+http://v.qq.com/v/|腾讯微讲堂
+http://xuetangx.com/|学堂在线
+http://edu.youku.com/|优酷教育频道
+http://www.howzhi.com/|好知网
+http://www.opclass.com/|公开课纪录片下载
+http://www.ablesky.com/|能力天空网络课程
+http://www.dijiuke.com/|第九课堂
+http://www.tedtochina.com/|TEDtoChina
+http://www.xsteach.com/|刑帅教育
+http://edu.yy.com/|YY教育
+http://www.fanshuxueyuan.com/|番薯学院
+http://gkkgo.com/|KK学习助手
+http://daxue.qq.com/|腾讯大学
+http://www.mooc.cn/|MOOC中国
+http://www.ewant.org/|ewant育網開放教育平台
+http://xue.taobao.com/|淘宝同学
+标题字段,国外公开课,gwgkk
+http://www.ted.com/|TED
+https://www.coursera.org/|Coursera
+https://www.udacity.com/|Udacity
+http://www.codecademy.com/|Codecademy
+http://www.openculture.com/|Open Culture
+http://academicearth.org/online-college-courses/|ACADEMIC EARTH
+https://www.khanacademy.org/|可汗学院
+http://open.conted.ox.ac.uk/series|牛津大学
+http://oyc.yale.edu/|耶鲁大学
+http://www.extension.harvard.edu/open-learning-initiative|哈佛大学
+http://ocw.mit.edu/courses/|麻省理工
+http://online.uchicago.edu/page/courses|宾夕法尼亚州立大学
+http://www.nyu.edu/academics/open-education.html|纽约大学
+http://dsp.rice.edu/overview|莱斯大学
+http://ocw.usu.edu/|霍华德大学
+http://open.umich.edu/|史密斯学院
+http://alumni.princeton.edu/learntravel/lectures/index.xml|普林斯顿大学
+http://ocw.kaplan.edu/|马萨诸塞波斯顿分校
+http://ocw.dixie.edu/|卡普兰大学
+https://oli.cmu.edu/|塔夫茨大学
+http://ccnmtl.columbia.edu/onlinelearning/gdl-at-columbia/|哥伦比亚大学
+http://online.uchicago.edu/page/courses|芝加哥大学
+http://ocw.unu.edu/|联合国大学
+http://ocw.tufts.edu/|约翰霍普金斯大学 
+http://ocw.umb.edu/|卡内基·梅隆大学
+http://ocw.u-tokyo.ac.jp/|京东大学
+http://ocw.korea.edu/ocw|韩国大学
+http://ocw.usq.edu.au/|南昆士兰大学
+http://ocw.jhsph.edu/index.cfm|彭博公共卫生学院
+http://ocw.jhsph.edu/index.cfm|犹他州迪克西州立学院
+https://www.coursera.org|Coursera
+https://www.edx.org/|EdX
+https://iversity.org/|iversity
+https://www.futurelearn.com/|Future Learn
+https://www.open2study.com/|open2study
+https://novoed.com/|NovoED venture lab
+http://mooec.com/|Massive Open Online English Course
+https://p2pu.org/|P2PU
+https://www.canvas.net/ |Alison
+https://www.canvas.net/|Canvas network
+http://openuped.eu/|OpenupEd
+https://www.udemy.com/|Udemy
+http://www.saylor.org/|Saylor
+https://www.openlearning.com/|Open learning
+http://www.allversity.org/|allversity
+https://www.coursesites.com|Course Sites
+http://academicearth.org/|Academic Earth
+标题字段,独立机构,dljg
+https://class.stanford.edu/|斯坦福大学独立mooc
+http://www.complexityexplorer.org/|圣菲研究所复杂系统mooc平台
+http://www.xuetangx.com/|清华大学学堂在线
+https://janux.ou.edu/landing/|JANUX
+http://www.microsoftvirtualacademy.com/|Microsoft Virtual Academy
+https://www.class2go.uwa.edu.au/ |Class2Go UWA
+https://myweps.com/moodle/|World Education Portals
+http://mooc.et.nthu.edu.tw/|台湾国立清华大学联合mooc平台
+http://www.ewant.org/MOOC/Home/Default.aspx |Ewant
+标题字段,外语学习,wyxx
+http://lang-8.com/|多语言学习网站
+http://www.hjenglish.com/|沪江英语网
+http://www.yeeyan.org/|译言网
+http://www.mofunenglish.com/|魔方英语
+http://www.langlib.com/|朗播网
+http://100.com/|100教育
+http://www.qcenglish.com/|七彩英语
+http://www.91waijiao.com/|91外教网
+http://www.kekenet.com/|可可英语
+http://www.easyvoa.com/|VOA英语
+http://www.putclub.com/|普特英语听力网
+http://xue.youdao.com/|有道学堂
+http://dict.cn/|海词在线词典翻译
+http://www.1checker.com/|易改网
+http://towords.com/|拓词
+http://www.shanbay.com/|扇贝网背单词
+http://www.biewang.cn/|别忘单词网
+http://www.yibei.com/|易呗网
+http://www.cctalk.com/|沪江CC课堂
+http://www.douban.com/group/topic/18572045/|世界各国语言学习网站
+http://www.visuwords.com/|Visuwords
+http://www.somdom.com/|声同小语种论坛
+http://www.51talk.com/|51Talk无忧英语
+http://www.tronenglish.com/|朴川英语
+http://www.pigai.org/|句酷批改网
+http://www.koolearn.com/|新东方
+http://www.molistudy.com/|魔力学院
+http://schoo.jp/|Schoo
+https://www.france-universite-numerique-mooc.fr/|FUN
+https://www.miriadax.net/|Miriada X 
+http://fr.openclassrooms.com/|Open Classrooms
+http://wideworlded.org/ |Wide World Ed
+http://universarium.org/ |universarium
+https://neodemia.com/|Neodemia
+http://www.redunx.org/ |Redunx
+http://www.myopencourses.com/|My Open Courses
+http://www.veduca.com.br/|Veduca
+http://www.jmooc.jp/en/|Jmooc
+标题字段,专业学科,zyxk
+http://mruniversity.com/|MRUniversity
+http://firstbusinessmooc.org/|First business mooc
+https://www.newsu.org/|Poynter's News University
+https://openhpi.de/ |openHPI
+http://thinkcerca.com/|ThinkCERCA
+http://www.mymobileuni.net/mu3/index.php|MyMobileUni
+https://www.eduson.tv/|Eduson
+http://www.fxacademy.com/|FX academy
+http://acamica.com/|Acamica
+http://onlinecourse.olympic.org/|IOC Athlete MOOC
+标题字段,独立课程,dlkc
+http://www.learningbygivingfoundation.org/mooc/|Learning by Giving Foundation
+https://weka.waikato.ac.nz/|weka mooc
+https://education.mongodb.com/|MongoDB University
+http://www.mooc-ed.org/|mooc-ed
+http://learn.moodle.net/|Learn Moodle
+http://rosalind.info/|ROSALIND | Problems
+http://www.leadership-mooc.net/|领导力
+http://www.leadapreneur.com/|Be more,be a leadapreneur
+http://www.biotechu.com/|生物技术
+http://academy-eec.co.uk/|新能源
+http://www.powersearchingwithgoogle.com/|Google搜索
+标题字段,微专业,wzy
+http://mooc.study.163.com/smartSpec/detail/85002.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|Java开发
+http://mooc.study.163.com/smartSpec/detail/1001201003.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|Java应用基础
+http://mooc.study.163.com/smartSpec/detail/1001137001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|C++开发
+http://mooc.study.163.com/smartSpec/detail/1001122002.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|测试工程师
+http://mooc.study.163.com/smartSpec/detail/1001180001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|PythonWeb微专业
+http://mooc.study.163.com/smartSpec/detail/12001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|前端开发
+http://mooc.study.163.com/smartSpec/detail/1001168001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|IOS开发
+http://mooc.study.163.com/smartSpec/detail/1001168002.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|Android开发
+http://mooc.study.163.com/smartSpec/detail/20001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|MySQL DBA
+http://mooc.study.163.com/smartSpec/detail/1001176001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|数据分析（SQL Server）
+http://mooc.study.163.com/smartSpec/detail/1001177002.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|数据分析（Excel）
+http://mooc.study.163.com/smartSpec/detail/1001275003.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|产品经理
+http://mooc.study.163.com/smartSpec/detail/1001127001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|产品运营
+http://mooc.study.163.com/smartSpec/detail/1001197001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|用户研究员
+http://mooc.study.163.com/smartSpec/detail/1001268002.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|新媒体运营
+http://mooc.study.163.com/smartSpec/detail/1001106002.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|交互设计师
+http://mooc.study.163.com/smartSpec/detail/1001280001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|高级UI
+http://mooc.study.163.com/smartSpec/detail/1001113001.htm?utm_source=9305777&utm_medium=cps&utm_campaign=affiliate|初级UI
+标题字段,就业实习,jysx
+http://bbs.yjbys.com/|应届毕业生网
+http://www.zhiqiantong.com|职前通实习
+http://cv.qiaobutang.com/|乔布简历
+http://www.topu.com/|过来人公开课
+http://www.geedream.com/|极梦网
+http://www.rapidbbs.cn/|锐普PPT
+http://www.guolairen.com/|过来人求职网
+http://web.jianzhimao.com/|兼职猫
+http://www.jianliku.com/account/index.action|简历酷
+http://500d.me/|五百丁简历
+http://xyzp.haitou.cc/|海投宣讲会
+http://xn--jmrs87b01bgw1a.xn--fiqs8s/|简历模板
+http://www.sxbbm.com/|师兄帮帮忙
+http://www.knockgate.com/|脑壳爱刷题
+http://www.8dianhou.com|8点后
+http://www.nowcoder.com/|牛客网
+标题字段,考研,ky
+http://edu.163.com/kaoyan/|网易考研
+http://kaoyan.eol.cn/|中国教育在线考研
+http://www.kaoyan.com/|考研加油站
+http://www.51test.net/kaoyan/|无忧考研
+http://www.exam8.com/xueli/kaoyan/|考试吧考研
+http://kaoyan.hjenglish.com/|沪江考研
+http://www.cnky.net/|中国考研网
+http://www.freekaoyan.com/|免费考研网
+http://www.kaoyantj.com/|考研共济网
+http://www.koolearn.com/kaoyan/|新东方考研
+http://bbs.kaoyan.com/|考研论坛
+http://bbs.pinggu.org/|人大经济论坛
+http://www.1zhao.org/forum.php|知识宝库论坛
+http://bbs.whnet.edu.cn/cgi-bin/bbsnewtdoc?board=KAOYAN|白云黄鹤考研版
+http://www.kaoyan.com/|考研网
+http://yz.chsi.com.cn/|研究生招生信息网
